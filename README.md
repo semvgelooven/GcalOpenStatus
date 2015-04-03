@@ -27,9 +27,9 @@ Login to your Google account and create a new Calendar, make sure this calendar 
 
 ### Plugin configuration
 
-The plugin has two variables that need to be set in order to get the plugin to work properly. These variables are:
-apiKey  = 'paste your public API key that you created in Google Developer console';
-account = 'paste your agenda-id';
+The plugin has two variables that need to be set in order to get the plugin to work properly. These variables are:<br />
+apiKey  = 'paste your public API key that you created in Google Developer console';<br />
+account = 'paste your agenda-id';<br />
 
 ### Example
 
